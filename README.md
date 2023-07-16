@@ -1,8 +1,7 @@
-Problems: sales by profit.
-customer by segment.
-sum of profit by region.
-sum of loss by region.
-sum of sales by each discount.
+Problems: want to see all the sales fom each city with profit.
+how much customers are in diffrent segment total with each segment.
+all the total amount of sales with profit/loss by region. 
+show all the customer with discount.
 want to see all sum of sales by year as well as quarter.
 
 Approaches.
